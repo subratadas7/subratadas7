@@ -2,26 +2,47 @@
 
 # Hi, I'm Subrata Das 👋
 
-### Developer | Builder | Creative Technologist
+### Developer · Builder · Creative Technologist
+
+*Turning ideas into useful digital experiences.*
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/subrata.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subrata-das-entrepreneurs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:subratadasiem@gmail.com)
 
 </div>
-About:
-👋 Hi, I'm **Subrata Das** — a passionate developer, technology enthusiast, and creative problem solver.
-
-💻 I love turning ideas into reality through code, building innovative digital solutions, and exploring emerging technologies. My interests include software development, cloud computing, web technologies, database management, and creative design.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Interested in software development, cloud platforms, and digital product creation.
-- 🧰 Work across programming, databases, deployment platforms, and creative tools.
-- 🎨 Enjoy combining engineering with design and multimedia.
-- 🌱 Always exploring new technologies and building practical projects.
+Hi, I'm **Subrata Das** — a passionate developer, technology enthusiast, and creative problem solver.
+
+I love turning ideas into reality through code, building innovative digital solutions, and exploring emerging technologies. My interests include software development, cloud computing, web technologies, database management, and creative design.
+
+## 🧭 What I'm Into
+
+- 💻 Exploring software development and modern web technologies.
+- ☁️ Learning about cloud platforms, deployment, and scalable systems.
+- 🗄️ Working with databases, APIs, and backend technologies.
+- 🎨 Combining engineering with UI/UX and creative design.
+- 🌱 Continuously learning, experimenting, and building practical projects.
+
+## 🧠 My Build Philosophy
+
+<div align="center">
+
+| **Think** | **Build** | **Improve** |
+|:---:|:---:|:---:|
+| Start with a clear problem. | Turn ideas into working solutions. | Learn from feedback and iterate. |
+
+</div>
+
+> I believe good technology should be useful, thoughtful, and easy to experience.
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Web
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,38 +85,45 @@ About:
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subratadas7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.demolab.com?user=subratadas7&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=subratadas7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratadas7&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=subratadas7&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratadas7&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
+Explore my work and activity directly on GitHub:
+
+- 🗂️ [Repositories](https://github.com/subratadas7?tab=repositories)
+- 📈 [Contribution activity](https://github.com/subratadas7)
+- 🏅 [GitHub achievements](https://github.com/subratadas7?tab=achievements)
+
+## 💬 A Developer's Reminder
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subratadas7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+### “Great things are built one commit at a time.”
+
+*Stay curious. Keep building. Never stop improving.*
 
 </div>
 
-## 💬 Developer Quote
+## 🤝 Let's Connect
+
+Have an interesting idea, project, or opportunity? Feel free to reach out.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-
-</div>
-
-## 📈 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=subratadas7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/subrata.codes)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subrata-das-entrepreneurs)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subratadasiem@gmail.com)
 
 </div>
 
@@ -105,6 +133,6 @@ About:
 
 ![Profile views](https://komarev.com/ghpvc/?username=subratadas7&label=Profile%20Views&color=0e75b6&style=flat)
 
-*Thanks for visiting my profile! Feel free to connect.*
+**Thanks for visiting my profile!**
 
 </div>
